@@ -1,3 +1,8 @@
 <resources>
     <dimen name="fab_margin">16dp</dimen>
+    <dimen name="padding_fifteen">15dp</dimen>
+    <dimen name="padding_twenty_five">25dp</dimen>
+    <dimen name="padding_five">5dp</dimen>
+    <dimen name="padding_ten">10dp</dimen>
+    <dimen name="zero_height">0dp</dimen>
 </resources>

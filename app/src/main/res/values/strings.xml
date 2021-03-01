@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">BookList Application</string>
     <string name="action_settings">Settings</string>
-
+    <string name="lbl_search">Type Author Name...</string>
 </resources>
