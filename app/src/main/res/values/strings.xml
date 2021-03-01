@@ -2,4 +2,8 @@
     <string name="app_name">BookList Application</string>
     <string name="action_settings">Settings</string>
     <string name="lbl_search">Type Author Name...</string>
+    <string name="date_format">yyyy-MM-dd</string>
+    <string name="dialog_message">Do you want to change the published date of the books to %s ?</string>
+    <string name="yes_btn_txt">Yes</string>
+    <string name="no_btn_txt">No</string>
 </resources>
